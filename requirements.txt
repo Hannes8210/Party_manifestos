@@ -1,0 +1,16 @@
+nltk
+textblob
+wordcloud
+statsmodels
+google-cloud-translate
+numpy
+pandas
+matplotlib
+seaborn
+os
+requests
+json
+sqlite3
+re
+math
+collections
