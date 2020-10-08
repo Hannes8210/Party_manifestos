@@ -31,7 +31,7 @@ Language/modules:
 
 The aim of this project is to analyze how the strength of populist radical right parties affect the attitude of parties in government towards international cooperation. In particular, it analyzes party manifestos with respect to their sentiment towards international cooperation and the frequencies of words related to international cooperation.<br>
 The core data and the texts of the party manifestos are retreived from the Manifesto Project API (https://manifesto-project.wzb.eu/information/documents/api). Data on the strength of populist radical right parties in the respective countries (vote share, seats share) come from the ParlGov database (http://www.parlgov.org/) and parties are defined as populist radical right according to the PopuList classifcation (https://popu-list.org).<br>
-The single steps are described in the notebook party_manifestos.ipynb.
+The individual steps are described in the notebook party_manifestos.ipynb.
 
 ### Table of contents
 1. Importing the modules required
