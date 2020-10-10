@@ -25,7 +25,6 @@ Language/modules:
 * json
 * sqlite3
 * re
-* math
 * collections
 
 ## Aim of the project
