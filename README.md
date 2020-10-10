@@ -2,11 +2,12 @@
 
 ## Requirements
 
-An account on the Google Cloud platform (GCP) and following the setup process described in: https://cloud.google.com/translate/docs/setup
+An account on the Google Cloud platform (GCP) and creating a JSON file containing the GCP service account key by following the setup process described in: https://cloud.google.com/translate/docs/setup
+An account at https://manifesto-project.wzb.eu/ and creating and storing the API key as an environmental variable "api_key_manifesto_project"
 
 Files in the current working directory:
+* JSON file containing the GCP service account key
 * manifestos_parlgov_linktable.csv
-* JSON file containing the GCP service account key 
 
 Language/modules:
 * Python 3
